@@ -1,0 +1,15 @@
+body {
+    background-color:white (255, 145, 0, 0.665);
+    font-size: 25px;
+}
+
+.buttonInicio {
+    font-size: 15px;
+    border-radius: 10px;
+    background-color:blue;
+    color: white;
+    border: 0px solid;
+    padding: 1.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
