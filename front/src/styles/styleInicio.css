@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(0, 0, 0) (255, 145, 0, 0.665);
+    font-size: 25px;
+}
+
+.buttonInicio {
+    font-size: 20px;
+    border-radius: 50px;
+    background-color:rgb(50, 191, 251);
+    color: white;
+    border: 3px solid;
+    padding: 1.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font: arial;
+    font-weight: 500;
+    margin: 60px 60px;
+}
+
+img{
+    height: 150vh;
+    width: 150vw;
+    
+  }
+
+.bienvenido{
+    color: white;
+    font-size: 80px;
+    font: arial;
+}

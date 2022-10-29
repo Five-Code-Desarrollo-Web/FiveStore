@@ -1,0 +1,27 @@
+[
+    {"id":1001,
+    "producto": "Gaseosa",
+    "descripción": "Bebida gaseosa y azucarada",
+    "marca": "Postobon"
+    },
+    {"id":1002,
+    "producto": "Agua en botella",
+    "descripción": "Bebida natural",
+    "marca": "Manantial"
+    },
+    {"id":1003,
+    "producto": "Papas fritas",
+    "descripción": "Alimento sabor artificial 30 gramos",
+    "marca": "Margarita"
+    },
+    {"id":1005,
+    "producto": "Galletas",
+    "descripción": "Pasaboca sabor a chocolate x 6 unidades",
+    "marca": "Festival"
+    },
+    {"id":1006,
+    "producto": "Mani",
+    "descripción": "Mezcla de mani y uvas pasas 50 gramos",
+    "marca": "La Especial"
+    }
+]

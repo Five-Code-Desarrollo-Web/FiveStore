@@ -1,0 +1,11 @@
+.buttonAdmin {
+    background-color: rgb(50, 191, 251);
+    color: white;
+    font-size: 30px;
+    padding: 1.5%;
+    border-color: rgb(50, 191, 251);
+    
+}
+.blockAdmin {
+    background-color: rgb(50, 191, 251);
+}
